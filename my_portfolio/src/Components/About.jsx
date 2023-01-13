@@ -39,7 +39,7 @@ const About = () => {
           </div>
 
           <p>
-            Assalomu alaykum. Mening ismim <b>Zuhriddin</b>.Men 20 yoshdaman.O'zbekiston Milliy universiteti, Amaliy matematika fakulteti 2- bosqich talabasiman.Hozirda g`irt bekorchiman.
+            Assalomu alaykum. Mening ismim <b>Zuhriddin</b>.Men 20 yoshdaman.O'zbekiston Milliy universiteti, Amaliy matematika fakulteti 2- bosqich talabasiman.
           </p>
 
           <a href="#contact" className='btn btn-primary'> Let's Talk</a>
